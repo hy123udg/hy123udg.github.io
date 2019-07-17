@@ -1,11 +1,11 @@
 # Site settings
 author: Haoyang Yu
-title: 
+title: Haoyang's Blog
 header-img: img/home-bg.png
 email: haoyangy@middlebury.edu
 copyright_name: Haoyang Yu
 description: > # this means to ignore newlines until "baseurl:"
-  
+  space-out
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hy123udg
